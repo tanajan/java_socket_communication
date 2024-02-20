@@ -9,7 +9,8 @@ signature then send to server. After server get the message, it will verify the 
 array in order to send to other user in the future.
 
 ## Installation
-# require java 17.0.10 2024-01-16 LTS or other compatible version
+require java 17.0.10 2024-01-16 LTS or other compatible version
+ 
 git clone https://github.com/tanajan/java_socket_communication.git
 
 ## Usage
